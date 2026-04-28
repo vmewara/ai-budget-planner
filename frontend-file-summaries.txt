@@ -1,0 +1,5 @@
+{
+  "frontend/src/pages/DashboardPage.tsx": "Dashboard page displaying financial overview with balance, income/expense stats, time filters, pie charts for category distribution, bar charts for monthly data, and line charts for financial trends over time.",
+  "frontend/src/pages/AnalyticsPage.tsx": "Analytics page with forms to add income/expense transactions, pie charts for expense and income category breakdowns, line chart for income vs expense trends, and bar chart for category-based spending insights.",
+  "frontend/src/pages/SettingsPage.tsx": "Settings page with tabbed interface for managing user profile, display preferences (theme mode), security settings (Internet Identity), and notification preferences with toggle switches, now correctly using Variant_dark_light enum values."
+}
